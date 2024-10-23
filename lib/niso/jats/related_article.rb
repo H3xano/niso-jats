@@ -3,6 +3,7 @@
 require "lutaml/model"
 
 require_relative "annotation"
+require_relative "basic_text"
 require_relative "article_title"
 require_relative "bold"
 require_relative "chapter_title"
